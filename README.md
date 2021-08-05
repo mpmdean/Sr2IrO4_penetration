@@ -1,4 +1,4 @@
-# Optical conductivity of Sr2IrO4
+# Beam penetration into Sr2IrO4
 Work with this by installing [docker](https://www.docker.com/) and pip and then running
 
 ~~~
